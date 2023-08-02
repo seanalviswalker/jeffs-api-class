@@ -1,0 +1,47 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "type": "text",
+      "version": 198,
+      "versionNonce": 595799847,
+      "isDeleted": false,
+      "id": "AvxMsvXGd6uV-FRv8b0r8",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": 411,
+      "y": 173,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "width": 472.55963134765625,
+      "height": 250,
+      "seed": 880522727,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1690899701879,
+      "link": null,
+      "locked": false,
+      "fontSize": 20,
+      "fontFamily": 1,
+      "text": "HTTP uses \"Resource Oriented Architecture\"\n\n- Resources\n    - \"An important thingy to user of your API\"\n    - Fixed set of behaviors\n        - GET\n        - POST\n        - PUT\n        - DELETE\n",
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "HTTP uses \"Resource Oriented Architecture\"\n\n- Resources\n    - \"An important thingy to user of your API\"\n    - Fixed set of behaviors\n        - GET\n        - POST\n        - PUT\n        - DELETE\n",
+      "lineHeight": 1.25,
+      "baseline": 243
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
